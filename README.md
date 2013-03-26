@@ -3,6 +3,10 @@ vbatelnet
 
 a tiny telnet library for vba.
 
+WEBSITE
+==========
+[gleemars](http://gleemars.com)
+
 API
 =========
 * Public Function tlnt_open(ByVal hst As String, ByVal prt As Long) As Long
