@@ -2,6 +2,7 @@ Attribute VB_Name = "api"
 '*********************************************
 'Project:vbatelnet
 'File Name:api.bas
+'Home Page:http://gleemars.com
 'Copyright (C) 2013 Yan Xingjian(gleemars@gmail.com or yanxingjian@139.com)
 'All rights reserved.
 'The contents of this file may be used under the terms of the
@@ -10,6 +11,7 @@ Attribute VB_Name = "api"
 '*********************************************
 ' 项目名：vbatelnet 1.0
 ' 文件名：api.bas
+' 主页：http://gleemars.com
 ' 版权所有 (C) 2013 颜兴建
 ' EMail:yanxingjian@139.com or gleemars@gmail.com
 ' 版权所有
